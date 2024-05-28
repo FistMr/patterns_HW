@@ -1,4 +1,4 @@
-package Java.com.puchkov.patterns;
+package Java.com.puchkov.patterns.singleton;
 
 
 import java.time.LocalDateTime;
